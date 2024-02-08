@@ -1,0 +1,454 @@
+﻿web-scraper-order,web-scraper-start-url,pokemon_info
+"1707412475-1","https://pokemondb.net/pokedex/game/red-blue-yellow","#001
+ Bulbasaur
+ Grass · Poison"
+"1707412475-2","https://pokemondb.net/pokedex/game/red-blue-yellow","#002
+ Ivysaur
+ Grass · Poison"
+"1707412475-3","https://pokemondb.net/pokedex/game/red-blue-yellow","#003
+ Venusaur
+ Grass · Poison"
+"1707412475-4","https://pokemondb.net/pokedex/game/red-blue-yellow","#004
+ Charmander
+ Fire"
+"1707412475-5","https://pokemondb.net/pokedex/game/red-blue-yellow","#005
+ Charmeleon
+ Fire"
+"1707412475-6","https://pokemondb.net/pokedex/game/red-blue-yellow","#006
+ Charizard
+ Fire · Flying"
+"1707412475-7","https://pokemondb.net/pokedex/game/red-blue-yellow","#007
+ Squirtle
+ Water"
+"1707412475-8","https://pokemondb.net/pokedex/game/red-blue-yellow","#008
+ Wartortle
+ Water"
+"1707412475-9","https://pokemondb.net/pokedex/game/red-blue-yellow","#009
+ Blastoise
+ Water"
+"1707412475-10","https://pokemondb.net/pokedex/game/red-blue-yellow","#010
+ Caterpie
+ Bug"
+"1707412475-11","https://pokemondb.net/pokedex/game/red-blue-yellow","#011
+ Metapod
+ Bug"
+"1707412475-12","https://pokemondb.net/pokedex/game/red-blue-yellow","#012
+ Butterfree
+ Bug · Flying"
+"1707412475-13","https://pokemondb.net/pokedex/game/red-blue-yellow","#013
+ Weedle
+ Bug · Poison"
+"1707412475-14","https://pokemondb.net/pokedex/game/red-blue-yellow","#014
+ Kakuna
+ Bug · Poison"
+"1707412475-15","https://pokemondb.net/pokedex/game/red-blue-yellow","#015
+ Beedrill
+ Bug · Poison"
+"1707412475-16","https://pokemondb.net/pokedex/game/red-blue-yellow","#016
+ Pidgey
+ Normal · Flying"
+"1707412475-17","https://pokemondb.net/pokedex/game/red-blue-yellow","#017
+ Pidgeotto
+ Normal · Flying"
+"1707412475-18","https://pokemondb.net/pokedex/game/red-blue-yellow","#018
+ Pidgeot
+ Normal · Flying"
+"1707412475-19","https://pokemondb.net/pokedex/game/red-blue-yellow","#019
+ Rattata
+ Normal"
+"1707412475-20","https://pokemondb.net/pokedex/game/red-blue-yellow","#020
+ Raticate
+ Normal"
+"1707412475-21","https://pokemondb.net/pokedex/game/red-blue-yellow","#021
+ Spearow
+ Normal · Flying"
+"1707412475-22","https://pokemondb.net/pokedex/game/red-blue-yellow","#022
+ Fearow
+ Normal · Flying"
+"1707412475-23","https://pokemondb.net/pokedex/game/red-blue-yellow","#023
+ Ekans
+ Poison"
+"1707412475-24","https://pokemondb.net/pokedex/game/red-blue-yellow","#024
+ Arbok
+ Poison"
+"1707412475-25","https://pokemondb.net/pokedex/game/red-blue-yellow","#025
+ Pikachu
+ Electric"
+"1707412475-26","https://pokemondb.net/pokedex/game/red-blue-yellow","#026
+ Raichu
+ Electric"
+"1707412475-27","https://pokemondb.net/pokedex/game/red-blue-yellow","#027
+ Sandshrew
+ Ground"
+"1707412475-28","https://pokemondb.net/pokedex/game/red-blue-yellow","#028
+ Sandslash
+ Ground"
+"1707412475-29","https://pokemondb.net/pokedex/game/red-blue-yellow","#029
+ Nidoran♀
+ Poison"
+"1707412475-30","https://pokemondb.net/pokedex/game/red-blue-yellow","#030
+ Nidorina
+ Poison"
+"1707412475-31","https://pokemondb.net/pokedex/game/red-blue-yellow","#031
+ Nidoqueen
+ Poison · Ground"
+"1707412475-32","https://pokemondb.net/pokedex/game/red-blue-yellow","#032
+ Nidoran♂
+ Poison"
+"1707412475-33","https://pokemondb.net/pokedex/game/red-blue-yellow","#033
+ Nidorino
+ Poison"
+"1707412475-34","https://pokemondb.net/pokedex/game/red-blue-yellow","#034
+ Nidoking
+ Poison · Ground"
+"1707412475-35","https://pokemondb.net/pokedex/game/red-blue-yellow","#035
+ Clefairy
+ Normal"
+"1707412475-36","https://pokemondb.net/pokedex/game/red-blue-yellow","#036
+ Clefable
+ Normal"
+"1707412475-37","https://pokemondb.net/pokedex/game/red-blue-yellow","#037
+ Vulpix
+ Fire"
+"1707412475-38","https://pokemondb.net/pokedex/game/red-blue-yellow","#038
+ Ninetales
+ Fire"
+"1707412475-39","https://pokemondb.net/pokedex/game/red-blue-yellow","#039
+ Jigglypuff
+ Normal"
+"1707412475-40","https://pokemondb.net/pokedex/game/red-blue-yellow","#040
+ Wigglytuff
+ Normal"
+"1707412475-41","https://pokemondb.net/pokedex/game/red-blue-yellow","#041
+ Zubat
+ Poison · Flying"
+"1707412475-42","https://pokemondb.net/pokedex/game/red-blue-yellow","#042
+ Golbat
+ Poison · Flying"
+"1707412475-43","https://pokemondb.net/pokedex/game/red-blue-yellow","#043
+ Oddish
+ Grass · Poison"
+"1707412475-44","https://pokemondb.net/pokedex/game/red-blue-yellow","#044
+ Gloom
+ Grass · Poison"
+"1707412475-45","https://pokemondb.net/pokedex/game/red-blue-yellow","#045
+ Vileplume
+ Grass · Poison"
+"1707412475-46","https://pokemondb.net/pokedex/game/red-blue-yellow","#046
+ Paras
+ Bug · Grass"
+"1707412475-47","https://pokemondb.net/pokedex/game/red-blue-yellow","#047
+ Parasect
+ Bug · Grass"
+"1707412475-48","https://pokemondb.net/pokedex/game/red-blue-yellow","#048
+ Venonat
+ Bug · Poison"
+"1707412475-49","https://pokemondb.net/pokedex/game/red-blue-yellow","#049
+ Venomoth
+ Bug · Poison"
+"1707412475-50","https://pokemondb.net/pokedex/game/red-blue-yellow","#050
+ Diglett
+ Ground"
+"1707412475-51","https://pokemondb.net/pokedex/game/red-blue-yellow","#051
+ Dugtrio
+ Ground"
+"1707412475-52","https://pokemondb.net/pokedex/game/red-blue-yellow","#052
+ Meowth
+ Normal"
+"1707412475-53","https://pokemondb.net/pokedex/game/red-blue-yellow","#053
+ Persian
+ Normal"
+"1707412475-54","https://pokemondb.net/pokedex/game/red-blue-yellow","#054
+ Psyduck
+ Water"
+"1707412475-55","https://pokemondb.net/pokedex/game/red-blue-yellow","#055
+ Golduck
+ Water"
+"1707412475-56","https://pokemondb.net/pokedex/game/red-blue-yellow","#056
+ Mankey
+ Fighting"
+"1707412475-57","https://pokemondb.net/pokedex/game/red-blue-yellow","#057
+ Primeape
+ Fighting"
+"1707412475-58","https://pokemondb.net/pokedex/game/red-blue-yellow","#058
+ Growlithe
+ Fire"
+"1707412475-59","https://pokemondb.net/pokedex/game/red-blue-yellow","#059
+ Arcanine
+ Fire"
+"1707412475-60","https://pokemondb.net/pokedex/game/red-blue-yellow","#060
+ Poliwag
+ Water"
+"1707412475-61","https://pokemondb.net/pokedex/game/red-blue-yellow","#061
+ Poliwhirl
+ Water"
+"1707412475-62","https://pokemondb.net/pokedex/game/red-blue-yellow","#062
+ Poliwrath
+ Water · Fighting"
+"1707412475-63","https://pokemondb.net/pokedex/game/red-blue-yellow","#063
+ Abra
+ Psychic"
+"1707412475-64","https://pokemondb.net/pokedex/game/red-blue-yellow","#064
+ Kadabra
+ Psychic"
+"1707412475-65","https://pokemondb.net/pokedex/game/red-blue-yellow","#065
+ Alakazam
+ Psychic"
+"1707412475-66","https://pokemondb.net/pokedex/game/red-blue-yellow","#066
+ Machop
+ Fighting"
+"1707412475-67","https://pokemondb.net/pokedex/game/red-blue-yellow","#067
+ Machoke
+ Fighting"
+"1707412475-68","https://pokemondb.net/pokedex/game/red-blue-yellow","#068
+ Machamp
+ Fighting"
+"1707412475-69","https://pokemondb.net/pokedex/game/red-blue-yellow","#069
+ Bellsprout
+ Grass · Poison"
+"1707412475-70","https://pokemondb.net/pokedex/game/red-blue-yellow","#070
+ Weepinbell
+ Grass · Poison"
+"1707412475-71","https://pokemondb.net/pokedex/game/red-blue-yellow","#071
+ Victreebel
+ Grass · Poison"
+"1707412475-72","https://pokemondb.net/pokedex/game/red-blue-yellow","#072
+ Tentacool
+ Water · Poison"
+"1707412475-73","https://pokemondb.net/pokedex/game/red-blue-yellow","#073
+ Tentacruel
+ Water · Poison"
+"1707412475-74","https://pokemondb.net/pokedex/game/red-blue-yellow","#074
+ Geodude
+ Rock · Ground"
+"1707412475-75","https://pokemondb.net/pokedex/game/red-blue-yellow","#075
+ Graveler
+ Rock · Ground"
+"1707412475-76","https://pokemondb.net/pokedex/game/red-blue-yellow","#076
+ Golem
+ Rock · Ground"
+"1707412475-77","https://pokemondb.net/pokedex/game/red-blue-yellow","#077
+ Ponyta
+ Fire"
+"1707412475-78","https://pokemondb.net/pokedex/game/red-blue-yellow","#078
+ Rapidash
+ Fire"
+"1707412475-79","https://pokemondb.net/pokedex/game/red-blue-yellow","#079
+ Slowpoke
+ Water · Psychic"
+"1707412475-80","https://pokemondb.net/pokedex/game/red-blue-yellow","#080
+ Slowbro
+ Water · Psychic"
+"1707412475-81","https://pokemondb.net/pokedex/game/red-blue-yellow","#081
+ Magnemite
+ Electric"
+"1707412475-82","https://pokemondb.net/pokedex/game/red-blue-yellow","#082
+ Magneton
+ Electric"
+"1707412475-83","https://pokemondb.net/pokedex/game/red-blue-yellow","#083
+ Farfetch'd
+ Normal · Flying"
+"1707412475-84","https://pokemondb.net/pokedex/game/red-blue-yellow","#084
+ Doduo
+ Normal · Flying"
+"1707412475-85","https://pokemondb.net/pokedex/game/red-blue-yellow","#085
+ Dodrio
+ Normal · Flying"
+"1707412475-86","https://pokemondb.net/pokedex/game/red-blue-yellow","#086
+ Seel
+ Water"
+"1707412475-87","https://pokemondb.net/pokedex/game/red-blue-yellow","#087
+ Dewgong
+ Water · Ice"
+"1707412475-88","https://pokemondb.net/pokedex/game/red-blue-yellow","#088
+ Grimer
+ Poison"
+"1707412475-89","https://pokemondb.net/pokedex/game/red-blue-yellow","#089
+ Muk
+ Poison"
+"1707412475-90","https://pokemondb.net/pokedex/game/red-blue-yellow","#090
+ Shellder
+ Water"
+"1707412475-91","https://pokemondb.net/pokedex/game/red-blue-yellow","#091
+ Cloyster
+ Water · Ice"
+"1707412475-92","https://pokemondb.net/pokedex/game/red-blue-yellow","#092
+ Gastly
+ Ghost · Poison"
+"1707412475-93","https://pokemondb.net/pokedex/game/red-blue-yellow","#093
+ Haunter
+ Ghost · Poison"
+"1707412475-94","https://pokemondb.net/pokedex/game/red-blue-yellow","#094
+ Gengar
+ Ghost · Poison"
+"1707412475-95","https://pokemondb.net/pokedex/game/red-blue-yellow","#095
+ Onix
+ Rock · Ground"
+"1707412475-96","https://pokemondb.net/pokedex/game/red-blue-yellow","#096
+ Drowzee
+ Psychic"
+"1707412475-97","https://pokemondb.net/pokedex/game/red-blue-yellow","#097
+ Hypno
+ Psychic"
+"1707412475-98","https://pokemondb.net/pokedex/game/red-blue-yellow","#098
+ Krabby
+ Water"
+"1707412475-99","https://pokemondb.net/pokedex/game/red-blue-yellow","#099
+ Kingler
+ Water"
+"1707412475-100","https://pokemondb.net/pokedex/game/red-blue-yellow","#100
+ Voltorb
+ Electric"
+"1707412475-101","https://pokemondb.net/pokedex/game/red-blue-yellow","#101
+ Electrode
+ Electric"
+"1707412475-102","https://pokemondb.net/pokedex/game/red-blue-yellow","#102
+ Exeggcute
+ Grass · Psychic"
+"1707412475-103","https://pokemondb.net/pokedex/game/red-blue-yellow","#103
+ Exeggutor
+ Grass · Psychic"
+"1707412475-104","https://pokemondb.net/pokedex/game/red-blue-yellow","#104
+ Cubone
+ Ground"
+"1707412475-105","https://pokemondb.net/pokedex/game/red-blue-yellow","#105
+ Marowak
+ Ground"
+"1707412475-106","https://pokemondb.net/pokedex/game/red-blue-yellow","#106
+ Hitmonlee
+ Fighting"
+"1707412475-107","https://pokemondb.net/pokedex/game/red-blue-yellow","#107
+ Hitmonchan
+ Fighting"
+"1707412475-108","https://pokemondb.net/pokedex/game/red-blue-yellow","#108
+ Lickitung
+ Normal"
+"1707412475-109","https://pokemondb.net/pokedex/game/red-blue-yellow","#109
+ Koffing
+ Poison"
+"1707412475-110","https://pokemondb.net/pokedex/game/red-blue-yellow","#110
+ Weezing
+ Poison"
+"1707412475-111","https://pokemondb.net/pokedex/game/red-blue-yellow","#111
+ Rhyhorn
+ Ground · Rock"
+"1707412475-112","https://pokemondb.net/pokedex/game/red-blue-yellow","#112
+ Rhydon
+ Ground · Rock"
+"1707412475-113","https://pokemondb.net/pokedex/game/red-blue-yellow","#113
+ Chansey
+ Normal"
+"1707412475-114","https://pokemondb.net/pokedex/game/red-blue-yellow","#114
+ Tangela
+ Grass"
+"1707412475-115","https://pokemondb.net/pokedex/game/red-blue-yellow","#115
+ Kangaskhan
+ Normal"
+"1707412475-116","https://pokemondb.net/pokedex/game/red-blue-yellow","#116
+ Horsea
+ Water"
+"1707412475-117","https://pokemondb.net/pokedex/game/red-blue-yellow","#117
+ Seadra
+ Water"
+"1707412475-118","https://pokemondb.net/pokedex/game/red-blue-yellow","#118
+ Goldeen
+ Water"
+"1707412475-119","https://pokemondb.net/pokedex/game/red-blue-yellow","#119
+ Seaking
+ Water"
+"1707412475-120","https://pokemondb.net/pokedex/game/red-blue-yellow","#120
+ Staryu
+ Water"
+"1707412475-121","https://pokemondb.net/pokedex/game/red-blue-yellow","#121
+ Starmie
+ Water · Psychic"
+"1707412475-122","https://pokemondb.net/pokedex/game/red-blue-yellow","#122
+ Mr. Mime
+ Psychic"
+"1707412475-123","https://pokemondb.net/pokedex/game/red-blue-yellow","#123
+ Scyther
+ Bug · Flying"
+"1707412475-124","https://pokemondb.net/pokedex/game/red-blue-yellow","#124
+ Jynx
+ Ice · Psychic"
+"1707412475-125","https://pokemondb.net/pokedex/game/red-blue-yellow","#125
+ Electabuzz
+ Electric"
+"1707412475-126","https://pokemondb.net/pokedex/game/red-blue-yellow","#126
+ Magmar
+ Fire"
+"1707412475-127","https://pokemondb.net/pokedex/game/red-blue-yellow","#127
+ Pinsir
+ Bug"
+"1707412475-128","https://pokemondb.net/pokedex/game/red-blue-yellow","#128
+ Tauros
+ Normal"
+"1707412475-129","https://pokemondb.net/pokedex/game/red-blue-yellow","#129
+ Magikarp
+ Water"
+"1707412475-130","https://pokemondb.net/pokedex/game/red-blue-yellow","#130
+ Gyarados
+ Water · Flying"
+"1707412475-131","https://pokemondb.net/pokedex/game/red-blue-yellow","#131
+ Lapras
+ Water · Ice"
+"1707412475-132","https://pokemondb.net/pokedex/game/red-blue-yellow","#132
+ Ditto
+ Normal"
+"1707412475-133","https://pokemondb.net/pokedex/game/red-blue-yellow","#133
+ Eevee
+ Normal"
+"1707412475-134","https://pokemondb.net/pokedex/game/red-blue-yellow","#134
+ Vaporeon
+ Water"
+"1707412475-135","https://pokemondb.net/pokedex/game/red-blue-yellow","#135
+ Jolteon
+ Electric"
+"1707412475-136","https://pokemondb.net/pokedex/game/red-blue-yellow","#136
+ Flareon
+ Fire"
+"1707412475-137","https://pokemondb.net/pokedex/game/red-blue-yellow","#137
+ Porygon
+ Normal"
+"1707412475-138","https://pokemondb.net/pokedex/game/red-blue-yellow","#138
+ Omanyte
+ Rock · Water"
+"1707412475-139","https://pokemondb.net/pokedex/game/red-blue-yellow","#139
+ Omastar
+ Rock · Water"
+"1707412475-140","https://pokemondb.net/pokedex/game/red-blue-yellow","#140
+ Kabuto
+ Rock · Water"
+"1707412475-141","https://pokemondb.net/pokedex/game/red-blue-yellow","#141
+ Kabutops
+ Rock · Water"
+"1707412475-142","https://pokemondb.net/pokedex/game/red-blue-yellow","#142
+ Aerodactyl
+ Rock · Flying"
+"1707412475-143","https://pokemondb.net/pokedex/game/red-blue-yellow","#143
+ Snorlax
+ Normal"
+"1707412475-144","https://pokemondb.net/pokedex/game/red-blue-yellow","#144
+ Articuno
+ Ice · Flying"
+"1707412475-145","https://pokemondb.net/pokedex/game/red-blue-yellow","#145
+ Zapdos
+ Electric · Flying"
+"1707412475-146","https://pokemondb.net/pokedex/game/red-blue-yellow","#146
+ Moltres
+ Fire · Flying"
+"1707412475-147","https://pokemondb.net/pokedex/game/red-blue-yellow","#147
+ Dratini
+ Dragon"
+"1707412475-148","https://pokemondb.net/pokedex/game/red-blue-yellow","#148
+ Dragonair
+ Dragon"
+"1707412475-149","https://pokemondb.net/pokedex/game/red-blue-yellow","#149
+ Dragonite
+ Dragon · Flying"
+"1707412475-150","https://pokemondb.net/pokedex/game/red-blue-yellow","#150
+ Mewtwo
+ Psychic"
+"1707412475-151","https://pokemondb.net/pokedex/game/red-blue-yellow","#151
+ Mew
+ Psychic"
