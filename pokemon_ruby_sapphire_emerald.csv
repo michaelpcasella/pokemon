@@ -1,0 +1,607 @@
+﻿web-scraper-order,web-scraper-start-url,pokemon_info
+"1707411951-1","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#001
+ Treecko
+ Grass"
+"1707411951-2","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#002
+ Grovyle
+ Grass"
+"1707411951-3","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#003
+ Sceptile
+ Grass"
+"1707411951-4","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#004
+ Torchic
+ Fire"
+"1707411951-5","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#005
+ Combusken
+ Fire · Fighting"
+"1707411951-6","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#006
+ Blaziken
+ Fire · Fighting"
+"1707411951-7","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#007
+ Mudkip
+ Water"
+"1707411951-8","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#008
+ Marshtomp
+ Water · Ground"
+"1707411951-9","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#009
+ Swampert
+ Water · Ground"
+"1707411951-10","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#010
+ Poochyena
+ Dark"
+"1707411951-11","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#011
+ Mightyena
+ Dark"
+"1707411951-12","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#012
+ Zigzagoon
+ Normal"
+"1707411951-13","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#013
+ Linoone
+ Normal"
+"1707411951-14","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#014
+ Wurmple
+ Bug"
+"1707411951-15","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#015
+ Silcoon
+ Bug"
+"1707411951-16","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#016
+ Beautifly
+ Bug · Flying"
+"1707411951-17","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#017
+ Cascoon
+ Bug"
+"1707411951-18","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#018
+ Dustox
+ Bug · Poison"
+"1707411951-19","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#019
+ Lotad
+ Water · Grass"
+"1707411951-20","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#020
+ Lombre
+ Water · Grass"
+"1707411951-21","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#021
+ Ludicolo
+ Water · Grass"
+"1707411951-22","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#022
+ Seedot
+ Grass"
+"1707411951-23","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#023
+ Nuzleaf
+ Grass · Dark"
+"1707411951-24","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#024
+ Shiftry
+ Grass · Dark"
+"1707411951-25","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#025
+ Taillow
+ Normal · Flying"
+"1707411951-26","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#026
+ Swellow
+ Normal · Flying"
+"1707411951-27","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#027
+ Wingull
+ Water · Flying"
+"1707411951-28","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#028
+ Pelipper
+ Water · Flying"
+"1707411951-29","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#029
+ Ralts
+ Psychic"
+"1707411951-30","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#030
+ Kirlia
+ Psychic"
+"1707411951-31","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#031
+ Gardevoir
+ Psychic"
+"1707411951-32","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#032
+ Surskit
+ Bug · Water"
+"1707411951-33","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#033
+ Masquerain
+ Bug · Flying"
+"1707411951-34","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#034
+ Shroomish
+ Grass"
+"1707411951-35","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#035
+ Breloom
+ Grass · Fighting"
+"1707411951-36","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#036
+ Slakoth
+ Normal"
+"1707411951-37","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#037
+ Vigoroth
+ Normal"
+"1707411951-38","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#038
+ Slaking
+ Normal"
+"1707411951-39","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#039
+ Abra
+ Psychic"
+"1707411951-40","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#040
+ Kadabra
+ Psychic"
+"1707411951-41","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#041
+ Alakazam
+ Psychic"
+"1707411951-42","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#042
+ Nincada
+ Bug · Ground"
+"1707411951-43","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#043
+ Ninjask
+ Bug · Flying"
+"1707411951-44","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#044
+ Shedinja
+ Bug · Ghost"
+"1707411951-45","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#045
+ Whismur
+ Normal"
+"1707411951-46","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#046
+ Loudred
+ Normal"
+"1707411951-47","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#047
+ Exploud
+ Normal"
+"1707411951-48","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#048
+ Makuhita
+ Fighting"
+"1707411951-49","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#049
+ Hariyama
+ Fighting"
+"1707411951-50","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#050
+ Goldeen
+ Water"
+"1707411951-51","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#051
+ Seaking
+ Water"
+"1707411951-52","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#052
+ Magikarp
+ Water"
+"1707411951-53","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#053
+ Gyarados
+ Water · Flying"
+"1707411951-54","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#054
+ Azurill
+ Normal"
+"1707411951-55","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#055
+ Marill
+ Water"
+"1707411951-56","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#056
+ Azumarill
+ Water"
+"1707411951-57","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#057
+ Geodude
+ Rock · Ground"
+"1707411951-58","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#058
+ Graveler
+ Rock · Ground"
+"1707411951-59","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#059
+ Golem
+ Rock · Ground"
+"1707411951-60","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#060
+ Nosepass
+ Rock"
+"1707411951-61","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#061
+ Skitty
+ Normal"
+"1707411951-62","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#062
+ Delcatty
+ Normal"
+"1707411951-63","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#063
+ Zubat
+ Poison · Flying"
+"1707411951-64","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#064
+ Golbat
+ Poison · Flying"
+"1707411951-65","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#065
+ Crobat
+ Poison · Flying"
+"1707411951-66","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#066
+ Tentacool
+ Water · Poison"
+"1707411951-67","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#067
+ Tentacruel
+ Water · Poison"
+"1707411951-68","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#068
+ Sableye
+ Dark · Ghost"
+"1707411951-69","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#069
+ Mawile
+ Steel"
+"1707411951-70","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#070
+ Aron
+ Steel · Rock"
+"1707411951-71","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#071
+ Lairon
+ Steel · Rock"
+"1707411951-72","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#072
+ Aggron
+ Steel · Rock"
+"1707411951-73","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#073
+ Machop
+ Fighting"
+"1707411951-74","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#074
+ Machoke
+ Fighting"
+"1707411951-75","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#075
+ Machamp
+ Fighting"
+"1707411951-76","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#076
+ Meditite
+ Fighting · Psychic"
+"1707411951-77","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#077
+ Medicham
+ Fighting · Psychic"
+"1707411951-78","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#078
+ Electrike
+ Electric"
+"1707411951-79","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#079
+ Manectric
+ Electric"
+"1707411951-80","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#080
+ Plusle
+ Electric"
+"1707411951-81","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#081
+ Minun
+ Electric"
+"1707411951-82","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#082
+ Magnemite
+ Electric · Steel"
+"1707411951-83","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#083
+ Magneton
+ Electric · Steel"
+"1707411951-84","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#084
+ Voltorb
+ Electric"
+"1707411951-85","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#085
+ Electrode
+ Electric"
+"1707411951-86","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#086
+ Volbeat
+ Bug"
+"1707411951-87","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#087
+ Illumise
+ Bug"
+"1707411951-88","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#088
+ Oddish
+ Grass · Poison"
+"1707411951-89","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#089
+ Gloom
+ Grass · Poison"
+"1707411951-90","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#090
+ Vileplume
+ Grass · Poison"
+"1707411951-91","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#091
+ Bellossom
+ Grass"
+"1707411951-92","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#092
+ Doduo
+ Normal · Flying"
+"1707411951-93","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#093
+ Dodrio
+ Normal · Flying"
+"1707411951-94","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#094
+ Roselia
+ Grass · Poison"
+"1707411951-95","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#095
+ Gulpin
+ Poison"
+"1707411951-96","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#096
+ Swalot
+ Poison"
+"1707411951-97","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#097
+ Carvanha
+ Water · Dark"
+"1707411951-98","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#098
+ Sharpedo
+ Water · Dark"
+"1707411951-99","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#099
+ Wailmer
+ Water"
+"1707411951-100","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#100
+ Wailord
+ Water"
+"1707411951-101","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#101
+ Numel
+ Fire · Ground"
+"1707411951-102","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#102
+ Camerupt
+ Fire · Ground"
+"1707411951-103","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#103
+ Slugma
+ Fire"
+"1707411951-104","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#104
+ Magcargo
+ Fire · Rock"
+"1707411951-105","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#105
+ Torkoal
+ Fire"
+"1707411951-106","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#106
+ Grimer
+ Poison"
+"1707411951-107","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#107
+ Muk
+ Poison"
+"1707411951-108","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#108
+ Koffing
+ Poison"
+"1707411951-109","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#109
+ Weezing
+ Poison"
+"1707411951-110","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#110
+ Spoink
+ Psychic"
+"1707411951-111","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#111
+ Grumpig
+ Psychic"
+"1707411951-112","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#112
+ Sandshrew
+ Ground"
+"1707411951-113","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#113
+ Sandslash
+ Ground"
+"1707411951-114","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#114
+ Spinda
+ Normal"
+"1707411951-115","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#115
+ Skarmory
+ Steel · Flying"
+"1707411951-116","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#116
+ Trapinch
+ Ground"
+"1707411951-117","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#117
+ Vibrava
+ Ground · Dragon"
+"1707411951-118","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#118
+ Flygon
+ Ground · Dragon"
+"1707411951-119","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#119
+ Cacnea
+ Grass"
+"1707411951-120","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#120
+ Cacturne
+ Grass · Dark"
+"1707411951-121","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#121
+ Swablu
+ Normal · Flying"
+"1707411951-122","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#122
+ Altaria
+ Dragon · Flying"
+"1707411951-123","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#123
+ Zangoose
+ Normal"
+"1707411951-124","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#124
+ Seviper
+ Poison"
+"1707411951-125","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#125
+ Lunatone
+ Rock · Psychic"
+"1707411951-126","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#126
+ Solrock
+ Rock · Psychic"
+"1707411951-127","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#127
+ Barboach
+ Water · Ground"
+"1707411951-128","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#128
+ Whiscash
+ Water · Ground"
+"1707411951-129","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#129
+ Corphish
+ Water"
+"1707411951-130","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#130
+ Crawdaunt
+ Water · Dark"
+"1707411951-131","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#131
+ Baltoy
+ Ground · Psychic"
+"1707411951-132","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#132
+ Claydol
+ Ground · Psychic"
+"1707411951-133","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#133
+ Lileep
+ Rock · Grass"
+"1707411951-134","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#134
+ Cradily
+ Rock · Grass"
+"1707411951-135","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#135
+ Anorith
+ Rock · Bug"
+"1707411951-136","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#136
+ Armaldo
+ Rock · Bug"
+"1707411951-137","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#137
+ Igglybuff
+ Normal"
+"1707411951-138","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#138
+ Jigglypuff
+ Normal"
+"1707411951-139","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#139
+ Wigglytuff
+ Normal"
+"1707411951-140","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#140
+ Feebas
+ Water"
+"1707411951-141","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#141
+ Milotic
+ Water"
+"1707411951-142","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#142
+ Castform
+ Normal"
+"1707411951-143","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#143
+ Staryu
+ Water"
+"1707411951-144","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#144
+ Starmie
+ Water · Psychic"
+"1707411951-145","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#145
+ Kecleon
+ Normal"
+"1707411951-146","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#146
+ Shuppet
+ Ghost"
+"1707411951-147","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#147
+ Banette
+ Ghost"
+"1707411951-148","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#148
+ Duskull
+ Ghost"
+"1707411951-149","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#149
+ Dusclops
+ Ghost"
+"1707411951-150","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#150
+ Tropius
+ Grass · Flying"
+"1707411951-151","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#151
+ Chimecho
+ Psychic"
+"1707411951-152","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#152
+ Absol
+ Dark"
+"1707411951-153","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#153
+ Vulpix
+ Fire"
+"1707411951-154","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#154
+ Ninetales
+ Fire"
+"1707411951-155","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#155
+ Pichu
+ Electric"
+"1707411951-156","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#156
+ Pikachu
+ Electric"
+"1707411951-157","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#157
+ Raichu
+ Electric"
+"1707411951-158","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#158
+ Psyduck
+ Water"
+"1707411951-159","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#159
+ Golduck
+ Water"
+"1707411951-160","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#160
+ Wynaut
+ Psychic"
+"1707411951-161","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#161
+ Wobbuffet
+ Psychic"
+"1707411951-162","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#162
+ Natu
+ Psychic · Flying"
+"1707411951-163","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#163
+ Xatu
+ Psychic · Flying"
+"1707411951-164","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#164
+ Girafarig
+ Normal · Psychic"
+"1707411951-165","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#165
+ Phanpy
+ Ground"
+"1707411951-166","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#166
+ Donphan
+ Ground"
+"1707411951-167","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#167
+ Pinsir
+ Bug"
+"1707411951-168","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#168
+ Heracross
+ Bug · Fighting"
+"1707411951-169","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#169
+ Rhyhorn
+ Ground · Rock"
+"1707411951-170","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#170
+ Rhydon
+ Ground · Rock"
+"1707411951-171","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#171
+ Snorunt
+ Ice"
+"1707411951-172","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#172
+ Glalie
+ Ice"
+"1707411951-173","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#173
+ Spheal
+ Ice · Water"
+"1707411951-174","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#174
+ Sealeo
+ Ice · Water"
+"1707411951-175","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#175
+ Walrein
+ Ice · Water"
+"1707411951-176","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#176
+ Clamperl
+ Water"
+"1707411951-177","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#177
+ Huntail
+ Water"
+"1707411951-178","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#178
+ Gorebyss
+ Water"
+"1707411951-179","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#179
+ Relicanth
+ Water · Rock"
+"1707411951-180","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#180
+ Corsola
+ Water · Rock"
+"1707411951-181","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#181
+ Chinchou
+ Water · Electric"
+"1707411951-182","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#182
+ Lanturn
+ Water · Electric"
+"1707411951-183","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#183
+ Luvdisc
+ Water"
+"1707411951-184","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#184
+ Horsea
+ Water"
+"1707411951-185","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#185
+ Seadra
+ Water"
+"1707411951-186","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#186
+ Kingdra
+ Water · Dragon"
+"1707411951-187","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#187
+ Bagon
+ Dragon"
+"1707411951-188","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#188
+ Shelgon
+ Dragon"
+"1707411951-189","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#189
+ Salamence
+ Dragon · Flying"
+"1707411951-190","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#190
+ Beldum
+ Steel · Psychic"
+"1707411951-191","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#191
+ Metang
+ Steel · Psychic"
+"1707411951-192","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#192
+ Metagross
+ Steel · Psychic"
+"1707411951-193","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#193
+ Regirock
+ Rock"
+"1707411951-194","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#194
+ Regice
+ Ice"
+"1707411951-195","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#195
+ Registeel
+ Steel"
+"1707411951-196","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#196
+ Latias
+ Dragon · Psychic"
+"1707411951-197","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#197
+ Latios
+ Dragon · Psychic"
+"1707411951-198","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#198
+ Kyogre
+ Water"
+"1707411951-199","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#199
+ Groudon
+ Ground"
+"1707411951-200","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#200
+ Rayquaza
+ Dragon · Flying"
+"1707411951-201","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#201
+ Jirachi
+ Steel · Psychic"
+"1707411951-202","https://pokemondb.net/pokedex/game/ruby-sapphire-emerald","#202
+ Deoxys
+ Psychic"
