@@ -1,0 +1,24 @@
+Person,GymRnk,City,Badge,Type,PokeID,Pokemon,Level
+Brock,1,Pewter City,Boulder Badge,Rock,74,Geodude,10
+Brock,1,Pewter City,Boulder Badge,Rock,95,Onix,12
+Misty,2,Cerulean City,Cascade Badge,Water,120,Staryu,18
+Misty,2,Cerulean City,Cascade Badge,Water,121,Starmie,21
+Lt. Surge,3,Vermilion City,Thunder Badge,Electric,26,Raichu,28
+Erika,4,Celadon City,Rainbow Badge,Grass,114,Tangela,30
+Erika,4,Celadon City,Rainbow Badge,Grass,70,Weepinbell,32
+Erika,4,Celadon City,Rainbow Badge,Grass,44,Gloom,32
+Koga,5,Fuchsia City,Soul Badge,Poison,48,Venonat,44
+Koga,5,Fuchsia City,Soul Badge,Poison,48,Venonat,46
+Koga,5,Fuchsia City,Soul Badge,Poison,48,Venonat,48
+Koga,5,Fuchsia City,Soul Badge,Poison,49,Venomoth,50
+Sabrina,6,Saffron City,Marsh Badge,Psychic,63,Abra,50
+Sabrina,6,Saffron City,Marsh Badge,Psychic,64,Kadabra,50
+Sabrina,6,Saffron City,Marsh Badge,Psychic,65,Alakazam,50
+Blaine,7,Cinnabar Island,Volcano Badge,Fire,38,Ninetales,48
+Blaine,7,Cinnabar Island,Volcano Badge,Fire,78,Rapidash,50
+Blaine,7,Cinnabar Island,Volcano Badge,Fire,59,Arcanine,54
+Giovanni,8,Viridian City,Earth Badge,Ground,51,Dugtrio,50
+Giovanni,8,Viridian City,Earth Badge,Normal,53,Persian,53
+Giovanni,8,Viridian City,Earth Badge,Poison · Ground,31,Nidoqueen,53
+Giovanni,8,Viridian City,Earth Badge,Poison · Ground,34,Nidoking,55
+Giovanni,8,Viridian City,Earth Badge,Ground · Rock,112,Rhydon,55
